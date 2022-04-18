@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.988607dc.css",
-    "main.js": "/static/js/main.24f15dc5.js",
-    "static/media/Passport.jpg": "/static/media/Passport.f9570d2c97f77ccebf4d.jpg",
-    "index.html": "/index.html",
-    "main.988607dc.css.map": "/static/css/main.988607dc.css.map",
-    "main.24f15dc5.js.map": "/static/js/main.24f15dc5.js.map"
+    "main.css": "/sideHustle-cvProject/static/css/main.988607dc.css",
+    "main.js": "/sideHustle-cvProject/static/js/main.114ffecf.js",
+    "static/media/Passport.jpg": "/sideHustle-cvProject/static/media/Passport.f9570d2c97f77ccebf4d.jpg",
+    "index.html": "/sideHustle-cvProject/index.html",
+    "main.988607dc.css.map": "/sideHustle-cvProject/static/css/main.988607dc.css.map",
+    "main.114ffecf.js.map": "/sideHustle-cvProject/static/js/main.114ffecf.js.map"
   },
   "entrypoints": [
     "static/css/main.988607dc.css",
-    "static/js/main.24f15dc5.js"
+    "static/js/main.114ffecf.js"
   ]
 }
