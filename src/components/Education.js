@@ -12,6 +12,7 @@ export default function Education() {
                     <div>
                         <h4>Federal Government Girls' College, Sagamu</h4>
                         <p>WASSC May/June 2015</p>
+                        <p>little change</p>
                         
                     </div>
                 </li>
